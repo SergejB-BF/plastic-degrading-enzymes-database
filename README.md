@@ -10,14 +10,18 @@ Existing enzyme databases (UniProt, GenBank, BRENDA)
 Manual extraction from peer-reviewed research articles
 Systematic literature review of plastic biodegradation studies
 
-Curation Process:
+### Curation Process:
+
 Each enzyme entry was manually reviewed and assessed. The assessment scores (1-3) reflect the curator's expert judgment of the strength of evidence linking each enzyme to plastic degradation capability:
 
 Assessment Score 1 (High confidence): Clear experimental evidence demonstrating plastic degradation activity, with quantified efficiency metrics or structural characterization
+
 Assessment Score 2 (Medium confidence): Reasonable evidence from homology, computational predictions, or partial experimental validation
+
 Assessment Score 3 (Lower confidence): Preliminary evidence or cases where research articles show correlation but lack distinct proof of enzyme-substrate degradation efficiency
 
-Important Note: In some original research articles, there is not a distinct or clear correlation between the reported enzyme and substrate degradation efficiency. In such cases, the curator applied scientific judgment to assign appropriate confidence scores based on the available evidence. Users are encouraged to consult original sources (provided in Source_URL column) for detailed context.
+### Important Note: 
+In some original research articles, there is not a distinct or clear correlation between the reported enzyme and substrate degradation efficiency. In such cases, the curator applied scientific judgment to assign appropriate confidence scores based on the available evidence. Users are encouraged to consult original sources (provided in Source_URL column) for detailed context.
 
 ## Description
 
