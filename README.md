@@ -50,6 +50,9 @@ This database is released under CC0 1.0 Universal (Public Domain). You are free 
 **Email:** [your.email@institution.edu]  
 **Institution:** [Biotechnical Faculty - University of Ljubljana ]
 
+## Acknowledgments
+This database was compiled through systematic review of existing protein databases and peer-reviewed literature on plastic biodegradation. We acknowledge the original researchers whose experimental work made this compilation possible.
+
 ## Last Updated
 
 January 2026
