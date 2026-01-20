@@ -3,7 +3,8 @@ https://doi.org/10.5281/zenodo.18317183
 
 ## Data Compilation and Curation Methodology 
 This database represents a comprehensive compilation of plastic-degrading enzymes gathered from multiple sources:
-Data Sources:
+
+### Data Sources:
 
 Existing enzyme databases (UniProt, GenBank, BRENDA)
 Manual extraction from peer-reviewed research articles
