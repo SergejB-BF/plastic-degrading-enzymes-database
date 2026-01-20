@@ -7,7 +7,9 @@ This database represents a comprehensive compilation of plastic-degrading enzyme
 ### Data Sources:
 
 Existing enzyme databases (UniProt, GenBank, BRENDA)
+
 Manual extraction from peer-reviewed research articles
+
 Systematic literature review of plastic biodegradation studies
 
 ### Curation Process:
