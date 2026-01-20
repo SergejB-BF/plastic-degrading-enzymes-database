@@ -37,7 +37,7 @@ This repository contains a curated database of 597 plastic-degrading enzymes inc
 If you use this database in your research, please cite:
 ```
 [Sergej Bohinc]. (2025). Plastic-Degrading Enzymes Database. 
-GitHub repository and Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+GitHub repository and Zenodo. https://doi.org/10.5281/zenodo.18317183
 ```
 
 ## License
