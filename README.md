@@ -72,7 +72,7 @@ This database is released under CC0 1.0 Universal (Public Domain). You are free 
 ## Contact
 
 **Author:** [Sergej Bohinc]  
-**Email:** [your.email@institution.edu]  
+**Email:** [/]  
 **Institution:** [Biotechnical Faculty - University of Ljubljana ]
 
 ## Acknowledgments
